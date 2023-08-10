@@ -1,0 +1,2 @@
+Depth of 7 = 1
+Height of 7 = 0

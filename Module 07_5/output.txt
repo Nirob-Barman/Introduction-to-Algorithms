@@ -1,0 +1,5 @@
+Number of connected components: 3
+Number of connected components: 3
+Vertices in connected component: 1 2 3 4 
+Vertices in connected component: 5 6 
+Vertices in connected component: 7 
